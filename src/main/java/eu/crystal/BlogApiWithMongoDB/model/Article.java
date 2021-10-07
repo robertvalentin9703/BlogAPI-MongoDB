@@ -2,7 +2,7 @@ package eu.crystal.BlogApiWithMongoDB.model;
 
 import java.sql.Timestamp;
 
-import javax.persistence.Id;
+import javax.persistence.*;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 
